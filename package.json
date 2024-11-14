@@ -5,10 +5,9 @@
   "author": "dadaowuma<dadaowuma@163.com>",
   "main": "index.js",
   "scripts": {
-    "docs:dev": "vitepress dev docs --port 5174",
-    "docs:build": "vitepress build docs",
-    "docs:preview": "vitepress preview docs",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "vitepress dev docs --port 5174",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
   },
   "devDependencies": {
     "vitepress": "1.5.0"
