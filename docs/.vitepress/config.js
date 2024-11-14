@@ -2,6 +2,7 @@ export default {
   // 站点级选项
   title: 'WeMeeting 的故事',
   description: '记录开发WeMeeting项目时的故事',
+  base: '/we-meeting-story/',
 
   // @see https://vitepress.dev/zh/reference/site-config#head
   head: [['script', {}, `console.log('自定义脚本');`]],
