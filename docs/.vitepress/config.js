@@ -34,6 +34,7 @@ export default {
     ],
     sidebar: [
       { text: '首页', link: '/' },
+      { text: '故事1', link: '/story-001'}
     ],
   },
 }
