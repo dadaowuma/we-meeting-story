@@ -36,7 +36,8 @@ export default {
       { text: '首页', link: '/' },
       { text: '故事1', link: '/story-001'},
       { text: '腾讯会议截图', link: '/story-002'},
-      { text: '华为会议截图', link: '/story-003'}
+      { text: '华为会议截图', link: '/story-003'},
+      { text: '核心功能概要', link: '/story-004'}
     ],
   },
 }
