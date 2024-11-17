@@ -35,7 +35,8 @@ export default {
     sidebar: [
       { text: '首页', link: '/' },
       { text: '故事1', link: '/story-001'},
-      { text: '腾讯会议截图', link: '/story-002'}
+      { text: '腾讯会议截图', link: '/story-002'},
+      { text: '华为会议截图', link: '/story-003'}
     ],
   },
 }
